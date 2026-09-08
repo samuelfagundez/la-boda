@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/vWZbafauxfDedJ3Y7",
+    "expandedUrl": "https://www.google.com/maps/place/La+Boda/@39.4660892,-0.366598,17z/data=!3m1!4b1!4m6!3m5!1s0xd60491efac50051:0x115c991ade477b75!8m2!3d39.4660851!4d-0.3640177!16s%2Fg%2F11lfjybf4z?entry=tts&g_ep=EgoyMDI2MDkwMi4wIPu8ASoASAFQAw%3D%3D&skid=5cf92317-7a9a-4868-a285-67ae4e8a4258&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=1251043137179581301&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJUQDF-h5JYA0RdXtH3hqZXBE",
+    "featureId": "0xd60491efac50051:0x115c991ade477b75",
+    "gmapsPlaceRef": "/g/11lfjybf4z",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-08T22:02:50.355Z"
+  },
+  "name": "La Boda",
+  "rating": {
+    "score": 4.7,
+    "count": 343
+  },
+  "phone": "+34 678 03 23 87",
+  "phoneNational": "678 03 23 87",
+  "hours": {
+    "weekly": [
+      "lunes: 17:30–23:30",
+      "martes: 17:30–23:30",
+      "miércoles: 17:30–23:30",
+      "jueves: 17:30–0:30",
+      "viernes: 13:30–0:30",
+      "sábado: 13:30–1:00",
+      "domingo: Cerrado"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 17,
+          "minute": 30
+        },
+        "close": {
+          "day": 1,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 17,
+          "minute": 30
+        },
+        "close": {
+          "day": 2,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 17,
+          "minute": 30
+        },
+        "close": {
+          "day": 3,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 17,
+          "minute": 30
+        },
+        "close": {
+          "day": 5,
+          "hour": 0,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 6,
+          "hour": 0,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 0,
+          "hour": 1,
+          "minute": 0
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [],
+  "pricePerPerson": "20 € – 30 €",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "links": {
+    "website": null,
+    "menu": null,
+    "reservations": null,
+    "reservable": true,
+    "googleMaps": "https://maps.google.com/?cid=1251043137179581301&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd60491efac50051:0x115c991ade477b75!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd60491efac50051:0x115c991ade477b75!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd60491efac50051:0x115c991ade477b75!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd60491efac50051:0x115c991ade477b75!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "Carrer de Salamanca, 29, L'Eixample, 46005 València, Valencia",
+    "short": "C. de Salamanca, 29, Valencia",
+    "components": {
+      "number": "29",
+      "street": "Carrer de Salamanca",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46005"
+    }
+  },
+  "location": {
+    "lat": 39.4660851,
+    "lng": -0.3640177
+  },
+  "primaryType": "restaurant",
+  "primaryTypeLabel": "Restaurante",
+  "types": [
+    "restaurant",
+    "spanish_restaurant",
+    "cocktail_bar",
+    "european_restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Admite reservas",
+    "Comer en el local",
+    "Para llevar",
+    "Recogida en la puerta",
+    "Terraza / asientos fuera",
+    "Apto para niños",
+    "Apto para grupos",
+    "Se admiten perros",
+    "Aseos",
+    "Comidas",
+    "Cenas",
+    "Cafés",
+    "Postres",
+    "Opciones vegetarianas",
+    "Cerveza",
+    "Vino",
+    "Cócteles"
+  ],
+  "accessibility": [
+    "Entrada accesible",
+    "Asientos accesibles"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": {
+    "freeParkingLot": false,
+    "paidParkingLot": true,
+    "freeStreetParking": true,
+    "paidStreetParking": true,
+    "freeGarageParking": false,
+    "paidGarageParking": true
+  },
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 4080,
+      "heightPx": 1840,
+      "attribution": "La Boda",
+      "attributionUri": "https://maps.google.com/maps/contrib/113258652189814546979"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 4800,
+      "heightPx": 3204,
+      "attribution": "La Boda",
+      "attributionUri": "https://maps.google.com/maps/contrib/113258652189814546979"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 1600,
+      "heightPx": 1200,
+      "attribution": "La Boda",
+      "attributionUri": "https://maps.google.com/maps/contrib/113258652189814546979"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 3204,
+      "heightPx": 4800,
+      "attribution": "La Boda",
+      "attributionUri": "https://maps.google.com/maps/contrib/113258652189814546979"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 4800,
+      "heightPx": 3200,
+      "attribution": "La Boda",
+      "attributionUri": "https://maps.google.com/maps/contrib/113258652189814546979"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Andre Rittner",
+      "attributionUri": "https://maps.google.com/maps/contrib/112386263392450680932"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 4800,
+      "heightPx": 3204,
+      "attribution": "La Boda",
+      "attributionUri": "https://maps.google.com/maps/contrib/113258652189814546979"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "attribution": "pedro fernandez vidal",
+      "attributionUri": "https://maps.google.com/maps/contrib/110851270569543164039"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 805,
+      "heightPx": 1133,
+      "attribution": "La Boda",
+      "attributionUri": "https://maps.google.com/maps/contrib/113258652189814546979"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 2560,
+      "heightPx": 1920,
+      "attribution": "Theodoros Dovridis",
+      "attributionUri": "https://maps.google.com/maps/contrib/114950591152072447045"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Laura Marti",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXtlgFzk_BbSBUvNRlwuZZ4I0MDsjO4P_a2ktlKxJqykCTGvdbQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "authorUri": "https://www.google.com/maps/contrib/110537237490050468738/reviews",
+      "rating": 5,
+      "text": "Hemos quedado encantados!\nMuy buena comida tradicional italiana. Un trato increíble por parte delos dueños. Son un encanto.\nVolveremos sin duda, hay que probar sus famosas pinsas y esos postres ✨",
+      "language": "es",
+      "relativeTime": "Hace un año",
+      "publishTime": "2025-05-20T07:31:37.581648Z"
+    },
+    {
+      "author": "Raquel López Almela",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJV0Fyd06ySMGHURrSObL_m2MqOvkOorKdX2ktAMMoXO4bRug=s128-c0x00000000-cc-rp-mo-ba3",
+      "authorUri": "https://www.google.com/maps/contrib/100484865858410460385/reviews",
+      "rating": 5,
+      "text": "Italiano auténtico .Un gran descubrimiento en la zona de Cánovas. Lo conocía hace meses y no había tenido la oportunidad de visitarlo.Hemos salido conocía muchas ganas de volverLa comida es italiana de verdad, la cocinera es una chica italiana que se ve que cocina con todo el cariño y el servicio es rápido y nos aconsejaron super bien  ya que íbamos con una persona intolerante a la lactosa y aún así comió super bien.\nLes deseo lo mejor y espero poder volver pronto",
+      "language": "es",
+      "relativeTime": "Hace 4 meses",
+      "publishTime": "2026-04-17T10:15:06.746847150Z"
+    },
+    {
+      "author": "Vincent Speed",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJzb1ian9rvIKZxcfZUwlJgtuknpU1XcgbL3TOQTq03X4Mehw=s128-c0x00000000-cc-rp-mo-ba6",
+      "authorUri": "https://www.google.com/maps/contrib/111404762210168500222/reviews",
+      "rating": 5,
+      "text": "English and Spanish version below:\n\nSe visitate Valencia non potete non recarvi al \"El Tigre Ciego\", locale molto grazioso, dove accoglienza e buon cibo vi aspettano.\n\nPotrete provare degli ottimi cocktail e buone birre in compagnia delle persone del quartiere (Barrio) e mescolarvi con persone di ogni nazionalità.\n\nSarete accolti come uno di casa e lo chef vi delizierà con piatti fuori dal comune, e gusterete piatti che sapranno stuzzicare il vostro palato.\n\nDa provare:\nTarta de queso, Caballa a la brasa con salsa Mery y  alli&oli, Pepito con titaina del cabanal y mojama de atun rojo, Focaccia con sardina a la brasa, tomate confitado y katsuobushi, Croquetas caseras de ave y cerezas, de espinacas pinones y pasas, bunuelo de bacalao.\n\nPoco distante dal centro.. questo locale è un \"must to have - must to try\" non solo per chi visita Valencia, ma anche per chi vive a Valencia.\n\nSpanish Version:\nSi visitas Valencia, no puedes perderte el 'Tigre Ciego', un local muy agradable donde te espera hospitalidad y buena comida.\n\nPodrás degustar excelentes cócteles y buenas cervezas en compañía de la gente del barrio y mezclarte con gente de todas las nacionalidades.\n\nTe harán sentir como en casa y el chef te deleitará con platos que harán las delicias de tu paladar.\n\nPrueba:\nTarta de queso, Caballa a la brasa con salsa Mery y alli&oli, Pepito con titaina del cabanal y mojama de atun rojo, Focaccia con sardina a la brasa, tomate confitado y katsuobushi, Croquetas caseras de ave y cerezas, de espinacas pinones y pasas, bunuelo de bacalao.\n\nA un paso del centro... este lugar es un 'must have - must try' si vas a Valencia y también\n\nEnglish Version:\nIf you visit Valencia, you cannot miss the 'Tigre Ciego', a very nice place where hospitality and good food await you.\n\nYou can try excellent cocktails and good beers in the company of people from the neighbourhood (Barrio) and mix with people of all nationalities.\n\nYou will be made to feel at home and the chef will delight you with dishes that will tickle your taste buds.\n\nTry:\nTarta de queso, Caballa a la brasa con salsa Mery y alli&oli, Pepito con titaina del cabanal y mojama de atun rojo, Focaccia con sardina a la brasa, tomate confitado y katsuobushi, Croquetas caseras de ave y cerezas, de espinacas pinones y pasas, bunuelo de bacalao.\n\nA short walk from the centre... this place is a 'must have - must try' if you go to Valencia",
+      "language": "es",
+      "relativeTime": "Hace 2 años",
+      "publishTime": "2024-08-06T17:16:54.946915Z"
+    },
+    {
+      "author": "Marta Querol, escritora",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXjh2Ttt-6mQ3C1UkJX9HFG0eVtkR3Jr8byQoXFR5iWXz9K_DtH=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/101518418033326016592/reviews",
+      "rating": 5,
+      "text": "Sitio tranquilo y agradable. Trato familiar y cuidado, te sientes como en casa. La carta incluye platos italianos caseros junto a platos de aquí, con producto de mercado, de calidad. Y además puedes pedirte cócteles buenísimos. El padrino, un negroni con toques ahumados, y la margarita, espectaculares.  Para volver.",
+      "language": "es",
+      "relativeTime": "Hace un año",
+      "publishTime": "2025-07-17T23:24:00.734346794Z"
+    },
+    {
+      "author": "Marieta",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjW6Sys_Pfy1wuG_nGJht1ww9cBn86o4huUgj2jPpszpHIbYzLkZ=s128-c0x00000000-cc-rp-mo-ba5",
+      "authorUri": "https://www.google.com/maps/contrib/102444262800444457266/reviews",
+      "rating": 5,
+      "text": "Es uno de los mejores sitios para comer pasta muy auténtica en valencia. Probamos varios platos y no sabria decir cuál mejor de todos, las pastas rellenas son super top y las salsa, todas brutales, todos los productos son caseros y de muy buena calidad. Tienen auténticas tapas italianas y los postres están riquísimos!¡!! Volveremos seguro!",
+      "language": "es",
+      "relativeTime": "Hace 2 años",
+      "publishTime": "2023-12-07T17:33:45.028180Z"
+    }
+  ]
+}
