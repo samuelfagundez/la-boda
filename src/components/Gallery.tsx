@@ -8,6 +8,8 @@ export default function Gallery() {
   const [selected, setSelected] = useState(0);
 
   const scrollTo = useCallback((i: number) => emblaApi?.scrollTo(i), [emblaApi]);
+  const scrollPrev = useCallback(() => emblaApi?.scrollPrev(), [emblaApi]);
+  const scrollNext = useCallback(() => emblaApi?.scrollNext(), [emblaApi]);
 
   useEffect(() => {
     if (!emblaApi) return;
@@ -30,22 +32,45 @@ export default function Gallery() {
         </h2>
       </div>
 
-      <div className="overflow-hidden" ref={emblaRef}>
-        <div className="flex px-4 sm:px-6 gap-4">
-          {content.gallery.map((photo) => (
-            <div
-              key={photo.src}
-              className="shrink-0 grow-0 basis-[80%] sm:basis-[45%] lg:basis-[30%]"
-            >
-              <img
-                src={assetUrl(photo.src)}
-                alt={photo.alt}
-                loading="lazy"
-                className="w-full h-72 sm:h-80 object-cover rounded-2xl"
-              />
-            </div>
-          ))}
+      <div className="relative mx-4 sm:mx-6">
+        <div className="overflow-hidden" ref={emblaRef}>
+          <div className="flex gap-4">
+            {content.gallery.map((photo) => (
+              <div
+                key={photo.src}
+                className="shrink-0 grow-0 basis-[80%] sm:basis-[45%] lg:basis-[30%]"
+              >
+                <img
+                  src={assetUrl(photo.src)}
+                  alt={photo.alt}
+                  loading="lazy"
+                  className="w-full h-72 sm:h-80 object-cover rounded-2xl"
+                />
+              </div>
+            ))}
+          </div>
         </div>
+
+        <button
+          type="button"
+          aria-label="Foto anterior"
+          onClick={scrollPrev}
+          className="flex absolute left-2 top-1/2 -translate-y-1/2 w-9 h-9 sm:w-11 sm:h-11 items-center justify-center rounded-full bg-cream/90 text-green-dark shadow-lg hover:bg-cream transition-colors"
+        >
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+            <path d="M15 18l-6-6 6-6" />
+          </svg>
+        </button>
+        <button
+          type="button"
+          aria-label="Foto siguiente"
+          onClick={scrollNext}
+          className="flex absolute right-2 top-1/2 -translate-y-1/2 w-9 h-9 sm:w-11 sm:h-11 items-center justify-center rounded-full bg-cream/90 text-green-dark shadow-lg hover:bg-cream transition-colors"
+        >
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+            <path d="M9 18l6-6-6-6" />
+          </svg>
+        </button>
       </div>
 
       <div className="flex justify-center gap-2 mt-6">
