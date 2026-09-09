@@ -3,14 +3,14 @@ export const content = {
   shortName: "La Boda",
   tagline: "Cocina italiana de cercanía y cócteles de autor en el corazón de L'Eixample, Valencia",
   description:
-    "La Boda es un restaurante italiano en el barrio de L'Eixample (zona de Cánovas), Valencia, donde la pasta, las pinsas y los platos caseros se preparan con recetas auténticas y producto de mercado. Un trato familiar y cercano, terraza en la calle y una buena carta de vinos y cócteles convierten cada visita en un plan tranquilo para comer o cenar en buena compañía.",
+    "La Boda es un restaurante italiano en el barrio de L'Eixample (zona de Cánovas), Valencia, donde la pasta, las pizzas y los platos caseros se preparan con recetas auténticas y producto de mercado. Un trato familiar y cercano, terraza en la calle y una buena carta de vinos y cócteles convierten cada visita en un plan tranquilo para comer o cenar en buena compañía.",
   metaDescription:
-    "Restaurante italiano en Valencia (L'Eixample). Pasta casera, pinsas, cócteles y trato cercano. Terraza, reservas y opciones vegetarianas. ★ 4.7 en Google.",
+    "Restaurante italiano en Valencia (L'Eixample). Pasta casera, pizzas, cócteles y trato cercano. Terraza, reservas y opciones vegetarianas. ★ 4.7 en Google.",
   keywords: [
     "La Boda Valencia",
     "restaurante italiano Valencia",
     "pasta casera Valencia",
-    "pinsas Valencia",
+    "pizzas Valencia",
     "restaurante L'Eixample",
     "cócteles Valencia",
     "restaurante zona Cánovas",
@@ -23,7 +23,7 @@ export const content = {
   rating: { value: 4.7, count: 343, countDisplay: "343 reseñas" },
   highlights: [
     "Pasta fresca y recetas italianas auténticas, con producto de mercado",
-    "Pinsas al horno y cócteles de autor",
+    "Pizzas al horno y cócteles de autor",
     "Trato familiar y cercano, como en casa",
     "Terraza en la calle y ambiente tranquilo",
   ],
@@ -71,13 +71,13 @@ export const content = {
   gallery: [
     { src: "/gallery/la-boda-interior-barra.jpg", alt: "Interior y barra del restaurante italiano La Boda en Valencia" },
     { src: "/gallery/la-boda-fachada.jpg", alt: "Fachada y terraza de La Boda, restaurante en L'Eixample, Valencia" },
-    { src: "/gallery/la-boda-pinsa-jamon.jpg", alt: "Pinsa de jamón ibérico de La Boda con una cerveza" },
+    { src: "/gallery/la-boda-pinsa-jamon.jpg", alt: "Pizza de jamón ibérico de La Boda con una cerveza" },
     { src: "/gallery/la-boda-pasta-bolonesa.jpg", alt: "Pasta fresca a la boloñesa de La Boda" },
     { src: "/gallery/la-boda-coctel.jpg", alt: "Cóctel de autor con frutos rojos y menta de La Boda" },
     { src: "/gallery/la-boda-berenjena.jpg", alt: "Berenjena a la parmigiana con pan tostado de La Boda" },
-    { src: "/gallery/la-boda-pinsa-setas.jpg", alt: "Pinsa de setas de temporada de La Boda" },
+    { src: "/gallery/la-boda-pinsa-setas.jpg", alt: "Pizza de setas de temporada de La Boda" },
     { src: "/gallery/la-boda-gin-tonic.jpg", alt: "Gin tonic servido en copa de balón en La Boda" },
-    { src: "/gallery/la-boda-pinsa-blanca.jpg", alt: "Pinsa blanca de calabacín crujiente de La Boda" },
+    { src: "/gallery/la-boda-pinsa-blanca.jpg", alt: "Pizza blanca de calabacín crujiente de La Boda" },
   ],
 
   mapEmbedSrc:

@@ -12,13 +12,6 @@ export default function About() {
             Cocina italiana con alma, en el barrio
           </h2>
           <p className="mt-5 text-navy/80 leading-relaxed">{content.description}</p>
-
-          <div className="mt-6 flex items-center gap-2 text-sm font-medium text-navy/80">
-            <span className="text-gold text-lg">★★★★★</span>
-            <span>
-              {content.rating.value} · {content.rating.countDisplay} en Google
-            </span>
-          </div>
         </div>
 
         <ul className="grid sm:grid-cols-2 gap-4">
